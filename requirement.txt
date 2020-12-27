@@ -1,0 +1,5 @@
+pytest == 6.0.1
+requests == 2.24.0
+ratelimit == 2.2.1
+openpyxl == 3.0.5
+allure-pytest == 2.8.29
